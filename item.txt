@@ -1,0 +1,28 @@
+# Essential Oils
+
+# Calming
+    Marcus
+    Diana
+    Marco
+    Gulfem
+
+# Energy
+    Marcus
+    Diana
+    Caleb
+    K Rod
+    Connor
+
+# Healing
+    Caleb
+    Marco
+    K Rod
+    Gulfem
+    Connor
+{
+    "name": "THE NAME OF YOUR ITEM",
+    "desc": "A DESC ABOUTYOUR ITEM",
+    "img": "URL",
+    "price": 10.99,
+    "category_id": Healing/Energy/Calming
+}
