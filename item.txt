@@ -1,19 +1,19 @@
 # Essential Oils
 
-# Calming
+# Calming 2
     Marcus
     Diana
     Marco
     Gulfem
 
-# Energy
+# Energy 4
     Marcus
     Diana
     Caleb
     K Rod
     Connor
 
-# Healing
+# Healing 5
     Caleb
     Marco
     K Rod
@@ -25,4 +25,146 @@
     "img": "URL",
     "price": 10.99,
     "category_id": Healing/Energy/Calming
+}
+
+
+{
+  "name": "CLARY SAGE ESSENTIAL OIL",
+  "desc": "clary sage oil can help alleviate stress by inducing a sense of well-being.",
+  "img": "https://images.ctfassets.net/x0wnv07j8mtt/2PUiT9ANMdk5rmIVV9mYPF/5e8b1350b6a29de4342b97b46a9c28f4/ClarySage_15ml_US_Website_2021.png",
+  "price": 7.99,
+  "category_id": 2
+}
+{
+  "name": "CHAMOMILE ESSENTIAL OIL",
+  "desc": "Inhaling chamomile oil may help with a variety of conditions, including anxiety and promoting sleep. You can use the oil in a diffuser or in a glass spray bottle. ",
+  "img": "https://m.media-amazon.com/images/I/61Ug11erSyL._AC_SX679_.jpg",
+  "price": 7.99,
+  "category_id": 2
+}
+
+{
+  "name": "EUCALYPTUS ESSENTIAL OIL",
+  "desc": "Eucalyptus leaves have many impressive benefits. They may help decrease pain, promote relaxation, and relieve cold symptoms.",
+  "img": "https://pics.drugstore.com/prodimg/504454/900.jpg",
+  "price": 7.99,
+  "category_id": 5
+}
+{
+  "name": "PEPPERMINT ESSENTIAL OIL",
+  "desc": "Peppermint oil is promoted for topical use (applied to the skin) for problems like headache, muscle aches, joint pain, and itching. In aromatherapy, peppermint oil is promoted for treating coughs and colds, reducing pain, improving mental function, and reducing stress.",
+  "img": "https://www.sallybeauty.com/dw/image/v2/BCSM_PRD/on/demandware.static/-/Sites-SBS-SallyBeautySupply/default/dw0badaca5/images/large/SBS-117144.jpg?sw=750&sh=750&sfrm=png",
+  "price": 8.99,
+  "category_id": 5
+}
+
+{
+    "name": "Vetiver",
+    "desc": "15 ml - woodsy herbal scent; Inhaled, it helps calm anger, anxiety, depression, and stress.",
+    "img": "https://arvedikas.com/wp-content/uploads/2020/12/Vetiver-Essential-Oil-scaled-2.jpg",
+    "price": 19.99,
+    "category_id": 2
+}
+{
+    "name": "Geranium",
+    "desc": "30 ml - floral scent; Inhaled or applied, it helps reduce anxiety and fear.",
+    "img": "https://s3.images-iherb.com/now/now07552/l/4.jpg",
+    "price": 17.99,
+    "category_id": 2
+}
+{
+    "name": "Lemon",
+    "desc": "4fl oz - citrus scent; Inhaled, it uplifts and energizes.",
+    "img": "https://s3.images-iherb.com/now/now07569/l/2.jpg",
+    "price": 10.99,
+    "category_id": 4
+}
+{
+    "name": "White fir",
+    "desc": "10ml - woodsy scent: Inhaled or applied, it energizes, while combatting Seasonal Affective Disorders.",
+    "img": "https://www.vicki-lynn.com/uploads/4/3/2/4/43247545/s402109766658500862_p261_i1_w800.jpeg",
+    "price": 12.99,
+    "category_id": 4
+}
+{
+    "name": "Eucalyptus (radiata)",
+    "desc": "2fl oz - camphorous herbal scent; Inhaled, it helps combat congestion, soothe coughs, and opens airways. ",
+    "img": "https://s3.images-iherb.com/now/now07491/y/4.jpg",
+    "price": 9.99,
+    "category_id": 5
+}
+{
+    "name": "Peppermint",
+    "desc": "2fl oz - minty scent; Applied, it helps relieve muscle and joint pain.",
+    "img": "https://varietybox.com.au/9886-thickbox_default/now-foods-essential-oils-peppermint-2-fl-oz-59-ml.jpg",
+    "price": 8.99,
+    "category_id": 5
+}
+{
+    "name": "Frankincense",
+    "desc": "4fl oz - woodsy scent; Applied, it helps heal skin infections, inflammation, scars, and removes warts.",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71%2BYlz%2Bs1-L._SL1500_.jpg",
+    "price": 19.99,
+    "category_id": 5
+}
+
+{
+    "name": "Patchouli Oil",
+    "desc": "Can't be a hippie but want to smell like one? Buy Patchouli",
+    "img": "https://bonnydoonfarm.com/wp-content/uploads/2018/04/PatchOil_All-600x600.jpg",
+    "price": 24.99,
+    "category_id": 5
+}
+{
+    "name": "Vetiver Oil",
+    "desc": "The perfect stress reliever",
+    "img": "https://www.annmariegianni.com/wp-content/uploads/2016/05/rsz_shutterstock_370259387.png",
+    "price": 49.99,
+    "category_id": 5
+}
+{
+    "name": "Spearmint",
+    "desc": "Did you find mint? Spear that mint with Spearmint!!",
+    "img": "https://static.youngliving.com/productimages/large/363808.jpg",
+    "price": 19.99,
+    "category_id": 4
+}
+{
+    "name": "Bergamot",
+    "desc": "Do you know how to pronounce Bergamot? Because I don't",
+    "img": "https://post.healthline.com/wp-content/uploads/2018/11/Bergamot_Oil-732x549-thumbnail.jpg",
+    "price": 34.55,
+    "category_id": 4
+}
+
+{
+    "name": "Citrus Wonder",
+    "desc": "lime essential oil has a bright citrus aroma creating a fresh summery fragrance even in the deepest, darkest winter months.",
+    "img": https://files.slack.com/files-pri/T1HU6FJFK-F0470R15AA3/download.jpg",
+    "price": 12.99,
+    "category_id" : 4
+}
+
+{
+    "name": "Rose Love",
+    "desc": "100% Natural Rose Geranium Essential Oil",
+    "img": "https://files.slack.com/files-pri/T1HU6FJFK-F0470S1K9JB/download.jpg",   
+    "price": 12.99,
+    "category_id": 5  
+}
+
+{
+    "name": "The Marcus Secret Blend",
+    "desc": "blend is truly a robust ally when it comes to supporting calm and confident states of mind. The aroma of blue tansy shines through in this combination of heady and gorgeous pure essential oils. It has an innately complex aroma that evolves beautifully with sweet, pungent, and earthy notes.",
+    "img": "https://cdn11.bigcommerce.com/s-8466dwhhql/images/stencil/1024x1024/products/1681/2424/Calming_Blend_EO_2021-01_5mL__01164.1611697260.jpg", 
+    "price": 13.00,
+    "category_id": 2
+}
+
+{
+    "name": "TSweat to the Rhythm",
+    "desc": "Energy Synergy Blend from Plant Therapy was created to give you a little boost during the day when you start feeling your energy drop.",
+    "img": "https://www.nhc.com/site/NHC/img/energy-synergy-blend-PL_main,1.jpg",   
+    "price": 13.00,
+    "category_id": 5
 }

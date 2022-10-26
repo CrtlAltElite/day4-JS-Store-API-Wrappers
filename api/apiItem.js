@@ -56,7 +56,7 @@ const getByCat = async (id, cancelToken)=>{
 
     const response = await apiClientNoAuth(cancelToken).get(endpoint+'/category/'+id)
     if (response.ok){
-        items = response.data
+        items = response.data.items
     }else if(response.status === 404){
         error = "Your Category was Not Found"
     }else{
